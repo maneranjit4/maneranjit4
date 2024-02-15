@@ -10,6 +10,14 @@ I am Ranjit Mane 😃.
 <p> A passionate <b style="color:#44bb88;"> Data Scientist </b> with a keen interest in leveraging data-driven insights to solve real-world problems. Recently graduated with a degree in Data Science, I am eager to embark on my professional journey and make a meaningful impact in the field.</p>
 <p> As a data scientist, I specialize in data preprocessing, extracting actionable insights from complex datasets, developing predictive models using machine learning and deep learning, and deploying scalable solutions to drive business growth.</p>
 
+## 🤖 Tools & Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 ## ⚡ Technical Skills
 - **Statistics:** Hypothesis testing, ANNOVA Test, Chi-square Test
 - **Supervised Machine Learning:** Linear Regression, Ridge and Lasso, Logistic Regression, Decision Tree, Random Forest, SVM, KNN
