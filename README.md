@@ -13,8 +13,6 @@ I am Ranjit Mane 😃.
 ## 🤖 Tools & Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikitlearn)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
