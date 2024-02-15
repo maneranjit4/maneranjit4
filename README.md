@@ -14,9 +14,14 @@ I am Ranjit Mane 😃.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikitlearn)
+![NumPy](https://maneranjit4.github.io/ranjit-portfolio/#about-id)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![](https://img.shields.io/badge/-SciPy-000?&logo=Scipy)
 
 ## ⚡ Technical Skills
 - **Statistics:** Hypothesis testing, ANNOVA Test, Chi-square Test
