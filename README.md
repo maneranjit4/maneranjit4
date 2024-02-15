@@ -42,7 +42,7 @@ I am Ranjit Mane 😃.
 
 
 ![Ranjit's github stats](https://github-readme-stats.vercel.app/api?username=maneranjit4&hide=[%22issues%22]&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maneranjit4&hide=css&hide_border=true&langs_count=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maneranjit4&hide=css&hide_border=true&langs_count=4&hide_title=true)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmaneranjit4%2F&label=Visitors&countColor=%23263759)
 
