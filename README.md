@@ -2,10 +2,14 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ranjit%20Mane-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ranjit-mane-9a49a6294/)](https://linkedin.com/in/ranjit-mane-9a49a6294/) 
-[![Gmail Badge](https://img.shields.io/badge/-maneranjit4@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maneranjit4@gmail.com)](mailto:maneranjit4@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Ranjit's%20Portfolio-green?style=flat-square&logo=github&logoColor=white&link=https://maneranjit4.github.io/ranjit-portfolio/)](https://maneranjit4.github.io/ranjit-portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ranjit%20Mane-red?style=flat-square&logo=Linkedin&link=https://linkedin.com/in/ranjit-mane-9a49a6294/)](https://linkedin.com/in/ranjit-mane-9a49a6294/) 
+[![Gmail Badge](https://img.shields.io/badge/-maneranjit4@gmail.com-blue?style=flat-square&logo=Gmail&link=mailto:maneranjit4@gmail.com)](mailto:maneranjit4@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Ranjit's%20Portfolio-green?style=flat-square&logo=github&link=https://maneranjit4.github.io/ranjit-portfolio/)](https://maneranjit4.github.io/ranjit-portfolio/)
 
+<-- [![Linkedin Badge](https://img.shields.io/badge/-Ranjit%20Mane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ranjit-mane-9a49a6294/)](https://linkedin.com/in/ranjit-mane-9a49a6294/) 
+[![Gmail Badge](https://img.shields.io/badge/-maneranjit4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maneranjit4@gmail.com)](mailto:maneranjit4@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Ranjit's%20Portfolio-blue?style=flat-square&logo=github&logoColor=white&link=https://maneranjit4.github.io/ranjit-portfolio/)](https://maneranjit4.github.io/ranjit-portfolio/)
+-->
 I am Ranjit Mane 😃. 
 <p> A passionate <b style="color:#44bb88;"> Data Scientist </b> with a keen interest in leveraging data-driven insights to solve real-world problems. Recently graduated with a degree in Data Science, I am eager to embark on my professional journey and make a meaningful impact in the field.</p>
 <p> As a data scientist, I specialize in data preprocessing, extracting actionable insights from complex datasets, developing predictive models using machine learning and deep learning, and deploying scalable solutions to drive business growth.</p>
