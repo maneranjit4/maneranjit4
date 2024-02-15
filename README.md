@@ -40,7 +40,10 @@ I am Ranjit Mane 😃.
 
 - 🎯 Portfolio site: [Portfolio](https://maneranjit4.github.io/ranjit-portfolio/).
 
+<img src="https://github-readme-stats.vercel.app/api?username=maneranjit4&hide=[%22issues%22]&show_icons=true" style="size:40px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneranjit4&hide=css&hide_border=true&langs_count=4&hide_title=true" style="size:40px;">
 
+<br>
 ![Ranjit's github stats](https://github-readme-stats.vercel.app/api?username=maneranjit4&hide=[%22issues%22]&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maneranjit4&hide=css&hide_border=true&langs_count=4&hide_title=true)
 
