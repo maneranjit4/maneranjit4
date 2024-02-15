@@ -22,6 +22,9 @@ I am Ranjit Mane 😃.
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![](https://img.shields.io/badge/-SciPy-000?&logo=Scipy)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
 
 ## ⚡ Technical Skills
 - **Statistics:** Hypothesis testing, ANNOVA Test, Chi-square Test
