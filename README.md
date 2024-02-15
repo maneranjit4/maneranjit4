@@ -23,7 +23,8 @@ I am Ranjit Mane 😃.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![](https://img.shields.io/badge/-SciPy-000?&logo=Scipy)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
+![](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
 
 
 ## ⚡ Technical Skills
