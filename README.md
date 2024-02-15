@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ranjit%20Mane-red?style=flat-square&logo=Linkedin&link=https://linkedin.com/in/ranjit-mane-9a49a6294/)](https://linkedin.com/in/ranjit-mane-9a49a6294/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ranjit%20Mane-red?style=flat-square&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/ranjit-mane-9a49a6294/)](https://linkedin.com/in/ranjit-mane-9a49a6294/) 
 [![Gmail Badge](https://img.shields.io/badge/-maneranjit4@gmail.com-blue?style=flat-square&logo=Gmail&link=mailto:maneranjit4@gmail.com)](mailto:maneranjit4@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Ranjit's%20Portfolio-green?style=flat-square&logo=github&link=https://maneranjit4.github.io/ranjit-portfolio/)](https://maneranjit4.github.io/ranjit-portfolio/)
 
