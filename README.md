@@ -17,7 +17,7 @@ I am Ranjit Mane 😃.
 
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikitlearn)
-![NumPy](https://maneranjit4.github.io/ranjit-portfolio/#about-id)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
